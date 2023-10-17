@@ -1,0 +1,26 @@
+
+   .circle-box {
+    width: 40px; 
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+  }
+  .card-body {
+    padding: 5px!important;
+  }
+
+  .top {
+    padding-top: 12px;
+  }
+  .user-name {
+    font-size: larger;
+  }
+  li {
+    cursor: pointer !important;
+  }
+  .container{
+    height: 400px !important;
+  }
